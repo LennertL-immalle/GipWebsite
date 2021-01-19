@@ -1,0 +1,66 @@
+body{
+    height: 724px;
+    color: #111111;
+    margin-left:auto;
+    margin-right: auto;
+    border-width: 2px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+
+header{
+    background-color: #2B3F52 ;
+    float: left;
+    width: 230px;
+    padding-top: 30px;
+    height:100%;
+}
+
+nav{
+     line-height: 50px;
+     
+}
+
+nav a{
+    text-decoration: none;
+    color:white;
+    font-family: 'Lato', sans-serif;
+    font-size: 16pt;
+    font-weight: bold;
+    
+}
+
+nav ul{
+    list-style-type: none;
+    padding-left: 25px;
+}
+
+
+article{
+}
+
+section{
+    padding-top: 10px;
+    padding-left: 30px;
+    color:black;
+    font-family: 'Lato', sans-serif;
+}
+
+h1{
+    font-size: 30pt;
+    font-family: 'Lato', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
