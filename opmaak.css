@@ -19,6 +19,7 @@ nav{
     background-color: #3AAFA9 ;
     width: 100%;
     margin-top: 70px;
+    margin-bottom: 0px;
     height: 70px;
     padding-top: 20px;
 }
@@ -39,9 +40,28 @@ nav a:hover{
 
 article{
     background-color: white; 
-    margin: 0px;
-    height: 555.5px;
+    margin-top: 0px;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-right: 100px;
+    height: 787px;
     width: 100%;
+}
+
+h2{
+  font-size: 28pt;
+}
+
+h3{
+  font-size: 24px;
+}
+
+p{
+  font-size: 14pt;
+}
+
+ol{
+  font-size: 14pt ;
 }
 
 * {box-sizing:border-box}
