@@ -37,6 +37,13 @@ nav a:hover{
     color: white;
 }
 
+article{
+    background-color: white; 
+    margin: 0px;
+    height: 555.5px;
+    width: 100%;
+}
+
 * {box-sizing:border-box}
 
 /* Slideshow container */
