@@ -38,5 +38,16 @@ nav a:hover{
   color: #66FCF1;
 }
 
+article{
+  margin-left: 20px;
+  padding-top: 50px;
+  padding-left: 300px;
+}
+
+.hpt{
+  color: #1f2833;
+  font-size: 18pt;
+}
+
 
 
