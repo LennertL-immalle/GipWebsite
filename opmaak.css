@@ -46,12 +46,47 @@ article{
 
 p{
   color:white;
+  font-size: 18px;
 }
 
 .PaginaTitel{
   color: #45A29E;
   font-size: 18pt;
 }
+
+.navCase{
+  text-align: left;
+  margin-top: 20px;
+}
+
+.btn{
+  background-color: black;
+  margin: 50px;
+  border:none;
+  width: 450px;
+  height: 150px;
+}
+
+.btntext{
+  font-family: 'Poppins', sans-serif;
+  color:white;
+  font-size: 12pt;
+  text-align: right;
+  vertical-align: center;
+}
+
+.btn img{
+  height: 130px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 310px;
+}
+
+.btn:hover{
+  background-color: gray;
+}
+
+
 
 .slidershow{
   width: 700px;
@@ -99,7 +134,7 @@ input[name="r"]{
   transition: 0.6s;
 }
 .slide img{
-  width: 100%;
+  width: 700px;
   height: 100%;
 }
 
