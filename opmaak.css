@@ -54,7 +54,7 @@ p{
   font-size: 18pt;
 }
 
-button{
+.btncase{
   margin-top: 30px;
   background-color: #222629;
   padding-left: 10px;
@@ -67,10 +67,31 @@ button{
   color:white
 }
 
+.btnDageverslagen{
+  margin-top: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+  background-color: #222629;
+  padding-left: 10px;
+  height: 120px;
+  width: 450px;
+  text-align: left;
+  border:none;
+  font-family: 'Poppins', sans-serif;
+  color:white
+}
+
 .h3case{
   padding-left: 12rem;
   color: white;
   font-size: 20pt;
+  padding-bottom: 0px;
+}
+
+.h3Dag{
+  padding-left: 1rem;
+  color: white;
+  font-size: 16pt;
   padding-bottom: 0px;
 }
 
@@ -85,6 +106,11 @@ button{
   padding-left: 12rem;
   padding-top: 0px;
   padding-right: 6rem;
+}
+
+.DagText{
+  color: white;
+  padding-right: 10rem;
 }
 
 .button:hover{
