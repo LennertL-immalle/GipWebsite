@@ -1390,6 +1390,7 @@ section {
 
 /*Slideshow*/
 .slidershow{
+  margin-top: 170px;
   width: 700px;
   height: 400px;
   overflow: hidden;
@@ -1623,6 +1624,22 @@ input[name="r"]{
 #footer .social-links a:hover {
   background: #ffce3a;
   text-decoration: none;
+}
+
+.Video-container{
+  align-items: center;
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%;
+  height: 0;
+}
+
+.Video-container iframe{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 
 
